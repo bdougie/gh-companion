@@ -1,0 +1,2 @@
+[template.environment]
+  GITHUB_TOKEN = "change me to your secret token"
